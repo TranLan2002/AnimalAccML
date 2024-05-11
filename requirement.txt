@@ -6,3 +6,4 @@ importlib
 openpyxl
 seaborn
 graphviz
+PyQt5
